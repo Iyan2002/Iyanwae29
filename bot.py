@@ -136,7 +136,7 @@ def title_loop():
 
 if __name__ == "__main__":
     os.system("cls" if os.name == "nt" else "clear"); os.system("title TikTok Viewbot by @xtekky" if os.name == "nt" else "")
-    txt = """\n\n ╦  ╦╦╔═╗╦ ╦╔╗ ╔═╗╔╦╗\n ╚╗╔╝║║╣ ║║║╠╩╗║ ║ ║ \n  ╚╝ ╩╚═╝╚╩╝╚═╝╚═╝ ╩\n- Youtube: NOOB SCRIPTER\n- Script : VIEW TIKTOD\n- Creator: @xtekky"""
+    txt = """\n\n ╦  ╦╦╔═╗╦ ╦╔╗ ╔═╗╔╦╗\n ╚╗╔╝║║╣ ║║║╠╩╗║ ║ ║ \n  ╚╝ ╩╚═╝╚╩╝╚═╝╚═╝ ╩\n- Youtube: Iyanwae29\n- Script : VIEW TIKTOD\n- Creator: @iyanwae29"""
     print(
         Colorate.Vertical(
             Colors.DynamicMIX((Col.light_blue, Col.purple)), Center.XCenter(txt)
